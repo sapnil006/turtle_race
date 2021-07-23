@@ -44,4 +44,3 @@ while is_race_on:
         sleep(0.05)
 
 screen.exitonclick()
-print("hello")
